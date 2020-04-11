@@ -1,6 +1,8 @@
 import java.util.HashSet;
 import static java.lang.System.*;
-
+/**
+ * Binary search tasks with sorted array
+ */
 public class SearchingTasks {
 
     public static int firstIndexOf(int[] array, int key) {
